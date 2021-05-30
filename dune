@@ -1,0 +1,4 @@
+(library
+ (public_name stzress)
+ (name stzress)
+ (libraries prbnmcn-mcts data-encoding))
